@@ -13,7 +13,7 @@ An Oxford study supports the fact that an "individual's personality significantl
     
     1. Is there a correlation between political partisanship and racial bias across states? 
     2. How do search rates behave in flipped states?
-    3. Does 2016 US presidential elections have an impact on search rates in the USA? 
+    3. Does a US presidential election have an impact on search rates in the USA? (if feasible)
 
 **Proposed datasets:**
 
@@ -59,3 +59,9 @@ Antoine and Nino will start analyzing the dataset and get used to Jekyll
 During the second week, Axel will perform a logistic regression to set search rates per year. Antoine and Nino will use this logistic regression to generate the first interactive figures and implement the linear regression.
 
 During the third week, Antoine and Nino will continue their analysis and include figures in the data story. All together we will record a nice pitch, and prepare the report. 
+
+**Questions for TAs**
+
+- Is it relevant to use a logistic regression to get search rates (predictions)? 
+- Are our questions specific enough? 
+- Does it matter if we do not compare all of the states (as datas are not available for every years in every states...)? 
