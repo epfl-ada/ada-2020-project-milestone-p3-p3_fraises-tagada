@@ -51,7 +51,7 @@ Week 3:
     - individual figure 3a replication
     - 18th december: rdv to our graveyard for the pitch
 
-**Organization wihtin the team:**
+**Organization within the team:**
 
 During the First week, Axel will dowload all datasets, manually create the partisanship dataset and merge them all. 
 Antoine and Nino will start analyzing the dataset and get used to Jekyll
