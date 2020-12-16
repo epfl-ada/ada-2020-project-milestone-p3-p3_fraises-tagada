@@ -3,5 +3,6 @@ data/
 .DS_store
 .ipynb_checkpoints/
 __pycache__/
+opp-stops_state.csv
 
 
