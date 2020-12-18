@@ -23,8 +23,8 @@ An Oxford study supports the fact that an "individual's personality significantl
 
     - Data acquisition: we will manually convert (from pdf to csv) a yearly partisanship dataset, for all states.
     - Data collection: to merge the state patrol stops dataset and the political partisanship dataset, we need to manually modify IDs (e.g state names).
-    - Create search rates: we will create search rates by applying per year a logistic regression on the datas to get the probabilty of beeing searched when stopped. 
-    - Comapring racial bias across states: we will implement a linear regression for each race, state and time period analyze trends in search decisions.
+    - Create search rates: we will create search rates by applying per year a logistic regression on the datas to get the probabilty of beeing searched when stopped. Edit: In the end we gave up on the logistic regression as it would strongly bias our analysis afterwards. Instead, we used the empirical means to build the search rates.
+    - Comparing racial bias across states: we will implement a linear regression for each race, state and time period analyze trends in search decisions. Edit: we used bootstrapping to build confidence intervals, as well as linear regression in the time-wise analysis. 
 
 **Proposed timeline:**
 
