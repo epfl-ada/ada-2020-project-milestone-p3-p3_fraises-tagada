@@ -12,12 +12,11 @@ An Oxford study supports the fact that an "individual's personality significantl
 **Research questions:**
     
     1. Is there a correlation between political partisanship and racial bias across states? 
-    2. How do search rates behave in flipped states?
-    3. Does a US presidential election have an impact on search rates in the USA? (if feasible)
+    2. How do search rates behave in time across political partisanship?
 
 **Proposed datasets:**
 
-    - Partisanshhip datas, rebuilt by our team, available here: https://www.ncsl.org/research/about-state-legislatures/partisan-composition.aspx
+    - Partisanship datas, rebuilt by our team, available here: https://www.ncsl.org/research/about-state-legislatures/partisan-composition.aspx
     - State Patrol stops datas available here: https://openpolicing.stanford.edu/data/
 
 **Methods:**
